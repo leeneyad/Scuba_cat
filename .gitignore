@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+tempCodeRunnerFile.py
+*.mp4
+*.webm
